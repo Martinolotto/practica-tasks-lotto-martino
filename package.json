@@ -1,0 +1,26 @@
+{
+  "name": "practicacrud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martinolotto/practica-tasks-lotto-martino.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Martinolotto/practica-tasks-lotto-martino/issues"
+  },
+  "homepage": "https://github.com/Martinolotto/practica-tasks-lotto-martino#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.23.3",
+    "sequelize": "^6.37.8"
+  }
+}
